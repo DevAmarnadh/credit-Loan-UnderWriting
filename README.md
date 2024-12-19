@@ -162,13 +162,3 @@ print("Merged data saved as model_training.csv")
 ### Notes
 - Ensure data paths (`../data/`) are correctly configured in notebooks and scripts.
 - Customize preprocessing, feature engineering, or model parameters based on specific project requirements.
-
-## Team Members
-
-1. **Chittala Pavan Kalyan**
-   - **Email**: pavankalyanchittala0@gmail.com
-   - **Capabl ID**: CPBLaak0485
-
-2. **Gandham Dev Amarnadh**
-   - **Email**: amarndhgandham000@gmail.com
-   - **Capabl ID**: CPBLaak0486

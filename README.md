@@ -9,7 +9,7 @@ This is an online application form to check your eligibility for loan approval. 
 
 You can access the deployed application to check your loan eligibility using the following link:
 
-[Loan Eligibility Prediction Application](https://loan-eligibility-prediction-capabl-ml-hackathon.streamlit.app/)
+[Loan Eligibility Prediction Application](https://devamarnadh-credit-loan-underwriting-app-7chvkq.streamlit.app/)
 
 ## Usage Instructions
 
